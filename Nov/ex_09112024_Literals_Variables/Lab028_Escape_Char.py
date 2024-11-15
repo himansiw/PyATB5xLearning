@@ -10,5 +10,5 @@ dir = r"C:\pramod\t.txt"
 print(dir)
 
 
-print("Pramod'u\t\ta")  #Pramod'u		a
+print("Pramod'u\t\da")  #Pramod'u		a
 print(r"Pramod'u\t\ta") #Pramod'u\t\ta
